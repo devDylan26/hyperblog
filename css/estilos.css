@@ -1,5 +1,17 @@
 body{
-    color: orange;
-    text-align: center;
+    color: darkblue;
+    text-align: left;
     font-family: cursive;
+    font-size: 16px;
+}
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 1px solid grey;
+    margin: auto;
+}
+
+#container h1{
+    font-size: 20px;
 }
