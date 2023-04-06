@@ -22,7 +22,7 @@ body{
 }
 
 #container{
-    width: 70%;
+    width: 90%;
     padding: 1em;
     text-align: left;
     border: 1px solid grey;
@@ -31,4 +31,15 @@ body{
 
 #container h1{
     font-size: 20px;
+}
+
+footer{
+    width: 100%;
+    padding: 20px;
+    background: grey;
+    color: white;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+
 }
